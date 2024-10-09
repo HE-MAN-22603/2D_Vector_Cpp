@@ -73,6 +73,4 @@ int main()
     cout<<"Spiral Matrix is : ";   
     spiralMatrix(matrix);
     return 0;
-}  
-
-hjkj
+}
